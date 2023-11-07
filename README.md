@@ -1,3 +1,3 @@
-#Material Properties Geodetic Inversion and Joint Inversion
+# Material Properties Geodetic Inversion and Joint Inversion
 
 This repository contains ... 
