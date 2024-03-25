@@ -25,3 +25,4 @@ We distribute these codes free of charge with the hope that you may find it usef
 - Simone Puel, Thorsten W. Becker, Umberto Villa, Omar Ghattas, Dunyu Liu (2024).An adjoint-based optimization method for jointly inverting heterogeneous material properties and fault slip from earthquake surface deformation data, _Geophysical Journal International_, **236**(2), pp. 778-797, DOI: https://doi.org/10.1093/gji/ggad442.
 
 - Simone Puel, Eldar Khattatov, Umberto Villa, Dunyu Liu, Omar Ghattas, Thorsten W. Becker (2022). A mixed, unified forward/inverse framework for earthquake problems: fault implementation and coseismic slip estimate, _Geophysical Journal International_, **230**(2), pp. 733-758, DOI: https://doi.org/10.1093/gji/ggac050.
+
