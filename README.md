@@ -10,19 +10,19 @@ We used the open-source libraries, [FEniCS](https://fenicsproject.org) version 2
 
 In this repository, there are three folders and one file. The file contains [instructions](https://github.com/SimonePuel/PoissonRatio-Joint-Inversions/blob/main/FEniCS-hIPPYlib_installation.md) on how to install the open-source libraries. Meanwhile, the three folders contain files to reproduce the results in the paper by [Puel et al. (2024)](https://doi.org/10.1093/gji/ggad442):
 
-- [PoissonRatio_inversion](https://github.com/SimonePuel/PoissonRatio-Joint-Inversions/tree/main/PoissonRatio_inversion): Contains the code to solve the deterministic adjoint-based inversion of surface geodetic data for the Poisson's ratio heterogeneous structure.
-- [Joint_ShearModulus_FaultSlip_inversion](https://github.com/SimonePuel/PoissonRatio-Joint-Inversions/tree/main/Joint_ShearModulus_FaultSlip_inversion): Contains the code to solve the joint deterministic adjoint-based inversion of surface geodetic data for the shear modulus heterogeneous structure and fault slip distribution.
+- [PoissonRatio_inversion](https://github.com/SimonePuel/PoissonRatio-Joint-Inversions/tree/main/PoissonRatio_inversion): contains the codes to solve the deterministic adjoint-based inversion of surface geodetic data for the Poisson's ratio heterogeneous structure.
+- [Joint_ShearModulus_FaultSlip_inversion](https://github.com/SimonePuel/PoissonRatio-Joint-Inversions/tree/main/Joint_ShearModulus_FaultSlip_inversion): contains the codes to solve the joint deterministic adjoint-based inversion of surface geodetic data for the shear modulus heterogeneous structure and fault slip distribution.
 - [mesh](https://github.com/SimonePuel/PoissonRatio-Joint-Inversions/tree/main/mesh) contains the finite-element meshes used in the paper.
 
 
 ## Installation of FEniCS and hIPPYlib open-source libraries
 
-For the installation of the two open-source libraries and all their dependencies, please refer to the provided file [FEniCS_hIPPYlib_installation.md](https://github.com/SimonePuel/PoissonRatio-Joint-Inversions/blob/main/FEniCS-hIPPYlib_installation.md).
+For the installation of the two open-source libraries, FEniCS and hIPPYlib, and all their dependencies, please refer to the provided file [FEniCS_hIPPYlib_installation.md](https://github.com/SimonePuel/PoissonRatio-Joint-Inversions/blob/main/FEniCS-hIPPYlib_installation.md).
 
 
 ## Mesh Generation and Visualization
 
-For models with complex geometries, the open-source mesh geration software, [Gmsh](https://www.gmsh.info/) (Geuzaine \& Remacle, 2009), was used to create the finite-element meshes. [Matplotlib](https://matplotlib.org) was used to visualize the results in 2D.
+For models with complex geometries, the open-source mesh generation software, [Gmsh](https://www.gmsh.info/) (Geuzaine \& Remacle, 2009), was used to create the finite-element meshes. [Matplotlib](https://matplotlib.org) was used to plot the results in 2D.
 
 
 ## Please cite the following publications when using these codes 
