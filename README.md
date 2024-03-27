@@ -12,7 +12,7 @@ In this repository, there are three folders and one file. The file contains [ins
 
 - [PoissonRatio_inversion](https://github.com/SimonePuel/PoissonRatio-Joint-Inversions/tree/main/PoissonRatio_inversion): contains the codes to solve the deterministic adjoint-based inversion of surface geodetic data for the Poisson's ratio heterogeneous structure.
 - [Joint_ShearModulus_FaultSlip_inversion](https://github.com/SimonePuel/PoissonRatio-Joint-Inversions/tree/main/Joint_ShearModulus_FaultSlip_inversion): contains the codes to solve the joint deterministic adjoint-based inversion of surface geodetic data for the shear modulus heterogeneous structure and fault slip distribution.
-- [mesh](https://github.com/SimonePuel/PoissonRatio-Joint-Inversions/tree/main/mesh) contains the finite-element meshes used in the paper.
+- [mesh](https://github.com/SimonePuel/PoissonRatio-Joint-Inversions/tree/main/mesh): contains the finite-element meshes used in the paper.
 
 
 ## Installation of FEniCS and hIPPYlib open-source libraries
