@@ -25,7 +25,7 @@ For the installation of the two open-source libraries and all their dependencies
 For models with complex geometries, the open-source mesh geration software, [Gmsh](https://www.gmsh.info/) (Geuzaine \& Remacle, 2009), was used to create the finite-element meshes. [Matplotlib](https://matplotlib.org) was used to visualize the results in 2D.
 
 
-## To acknowledge use of these codes, please cite the following publications: 
+## Please cite the following publications when using these codes 
 
 We offer these codes freely, with the aim that they contribute to your research and educational endeavors. As part of standard scientific protocol, we kindly ask for acknowledgment of the authors' efforts by citing relevant peer-reviewed papers (listed below) in your presentations and publications. We are open to collaborative opportunities and encourage you to contact me at spuel@utexas.edu with any inquiries regarding the software or its potential applications.
 
