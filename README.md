@@ -1,4 +1,4 @@
-# Adjoint-based Geodetic Inversion for Simultaneous Fault Slip and Medium Heterogeneity Estimation
+# Adjoint-Based Geodetic Inversion: Simultaneous Estimation of Fault Slip and Heterogeneous Elastic Properties
 
 
 This repository contains deterministic adjoint-based inversions of coseismic surface geodetic data for heterogeneous material elastic properties, including Poisson's ratio and shear modulus, as well as a joint inversion for both fault slip distribution and subduction zone structure. We utilized a second-order stress-accurate, stress-displacement-rotation mixed finite-element elastic formulation, which incorporates a new fault discontinuity implementation consistent with an infinite-dimensional formulation ([Puel et al., 2022](https://doi.org/10.1093/gji/ggac050)).
