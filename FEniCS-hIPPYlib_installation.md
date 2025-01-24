@@ -6,7 +6,7 @@ The FEniCS library can be installed in different ways (from source, on Docker, U
 [FEniCS](https://fenicsproject.org/download/)-2019.1.0 can be installed on Anaconda by following the instructions on the fenicsproject 
 website (https://fenicsproject.org/download/). To install FEniCS via Anaconda run following command on the terminal:
 
-``conda create -n fenics-2019.1 -c conda-forge fenics numpy matplotlib scipy jupyter``
+``conda create -n fenics-2019.1 -c conda-forge fenics numpy matplotlib scipy jupyter pandas cmcrameri``
 
 which will create an environment called fenics-2019.1, containing fenics, numpy, matplotlib, scipy, and jupyter.
 
