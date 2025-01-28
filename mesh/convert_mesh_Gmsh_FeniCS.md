@@ -13,6 +13,9 @@ Ensure Gmsh is accessible via the terminal:
      ```bash  
      brew install gmsh  
      ```  
+   - Othervise:
+     ```pip install gmsh
+     ``` 
 
 2. **Set Up Terminal Access**:  
    - Open your `~/.bash_profile` (or `~/.zshrc` for macOS users on zsh).  
@@ -35,10 +38,10 @@ Ensure Gmsh is accessible via the terminal:
 To convert a `.geo` file into a mesh (`.msh` format):  
 1. In the terminal, run:  
    ```bash  
-   gmsh -d <dimension> <filename>.geo -format msh2  
+   gmsh -<dimension> <filename>.geo -format msh2  
    ```  
    Replace:  
-   - `<dimension>` with `-2` for 2D problems or `-3` for 3D problems.  
+   - `<dimension>` with `2` for 2D problems or `3` for 3D problems.  
    - `<filename>` with the name of your `.geo` file.  
 
 2. **Optional flags for 3D meshes**:  
